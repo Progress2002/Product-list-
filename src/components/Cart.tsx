@@ -104,7 +104,7 @@ const Cart = ({ myCart, desserts, removeFromCart, resetCart }: CartProps) => {
               ${orderTotal}
             </p>
           </div>
-          <div className="bg-Rose-50 text-center py-3 rounded-md flex justify-center items-center gap-2">
+          <div className="bg-Rose-50 text-center py-3 mb-3 rounded-md flex justify-center items-center gap-2">
             <img src={iconCarbonNeutral} alt="carbon-neutral" className="" />
             <p className=" font-redHat text-xs">
               This is a{" "}
