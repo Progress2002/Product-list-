@@ -52,7 +52,7 @@ function App() {
   };
 
   return (
-    <main className="p-7 lg:p-14 bg-Rose-100 min-h-screen ">
+    <main className="p-7 lg:p-14 bg-Rose-50 min-h-screen ">
       <div className="flex flex-col lg:flex-row gap-10 lg:gap-4">
         <section className="flex-1" aria-labelledby="card-section-heading">
           <h1 id="card-section-heading" className="font-redHat font-extrabold text-3xl mb-7 text-Rose-900">
