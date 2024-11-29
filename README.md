@@ -53,7 +53,7 @@ Users should be able to:
 ## Author
 
 - Website - [Progress Ezeamaka](https://progress2002.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Progress2002)
-- Twitter - [@yourusername](https://twitter.com/Progress_2002)
+- Frontend Mentor - [@Progress2002](https://www.frontendmentor.io/profile/Progress2002)
+- Twitter - [@Progress_2002](https://twitter.com/Progress_2002)
 
 
