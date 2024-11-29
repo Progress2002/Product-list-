@@ -103,9 +103,9 @@ const Card = ({
         <p className="card-type text-Rose-400 text-sm font-semibold">
           {category}
         </p>
-        <h3 className="card-title text-Rose-900 text-base font-semibold ">
+        <h2 className="card-title text-Rose-900 text-base font-semibold ">
           {name}
-        </h3>
+        </h2>
         <p className="card-price text-Red font-semibold">${formattedPrice}</p>
       </div>
     </div>
