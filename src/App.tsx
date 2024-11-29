@@ -54,8 +54,8 @@ function App() {
   return (
     <main className="p-7 lg:p-14 bg-Rose-100 min-h-screen ">
       <div className="flex flex-col lg:flex-row gap-10 lg:gap-4">
-        <section className="flex-1" aria-labelledby="card-section">
-          <h1 className="font-redHat font-extrabold text-3xl mb-7 text-Rose-900">
+        <section className="flex-1" aria-labelledby="card-section-heading">
+          <h1 id="card-section-heading" className="font-redHat font-extrabold text-3xl mb-7 text-Rose-900">
             Desserts
           </h1>
           <DessertsList
@@ -66,7 +66,7 @@ function App() {
           />
         </section>
         <section className="h-fit w-full lg:w-[350px]" aria-labelledby="card-section">
-          <div>
+          <div id="card-section">
             <Cart
               myCart={myCart}
               desserts={desserts}
